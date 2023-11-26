@@ -10,7 +10,7 @@
   
           <div class="section-title">
             <h2>Skills</h2>
-            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+            <p>Some of my key skills are mentioned below.</p>
           </div>
   
           <div class="row skills-content">
@@ -50,7 +50,7 @@
               </div>
   
               <div class="progress">
-                <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+                <span class="skill">Laravel <i class="val">90%</i></span>
                 <div class="progress-bar-wrap">
                   <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
