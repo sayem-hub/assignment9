@@ -4,4 +4,4 @@
 
 @section('content')
     <h1>My Projects</h1>
-    @endsection
+@endsection
