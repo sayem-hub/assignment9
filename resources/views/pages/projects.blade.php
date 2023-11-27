@@ -30,7 +30,7 @@
                 <td class="text-center">{{ ++$key }}</td>
                 <td class="text-center">{{ $project['title'] }}</td>
                 <td>{{ $project['description'] }}</td>
-                <td>{{ $project['link'] }}</td>
+                <td> <a href="{{ $project['link'] }}" target="_blank">{{ $project['link'] }}</a></td>
                 
             </tr>
                 
